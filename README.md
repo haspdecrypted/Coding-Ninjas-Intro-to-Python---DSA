@@ -9,4 +9,5 @@ This particular repository is a guide or my progress segregated into multiple se
 5. [Patterns 2](https://github.com/haspdecrypted/Coding-Ninjas-Python---DSA/tree/main/patterns2)
 6. [More on loops](https://github.com/haspdecrypted/Coding-Ninjas-Python---DSA/tree/main/more%20on%20loops)
 7. [Functions](https://github.com/haspdecrypted/Coding-Ninjas-Python---DSA/tree/main/Functions)
+8. [Test](https://github.com/haspdecrypted/Coding-Ninjas-Python---DSA/tree/main/Test%201)
   
