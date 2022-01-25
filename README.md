@@ -7,4 +7,5 @@ This particular repository is a guide or my progress segregated into multiple se
 3. [Conditional and Loops](https://github.com/haspdecrypted/Coding-Ninjas-Python---DSA/tree/main/conditional%20and%20loops)
 4. [Patterns 1](https://github.com/haspdecrypted/Coding-Ninjas-Python---DSA/tree/main/patterns1)
 5. [Patterns 2](https://github.com/haspdecrypted/Coding-Ninjas-Python---DSA/tree/main/patterns2)
+6. [More on loops](https://github.com/haspdecrypted/Coding-Ninjas-Python---DSA/tree/main/more%20on%20loops)
   
