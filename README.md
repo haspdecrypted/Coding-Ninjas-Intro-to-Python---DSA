@@ -11,4 +11,6 @@ This particular repository is a guide or my progress segregated into multiple se
 7. [Functions](https://github.com/haspdecrypted/Coding-Ninjas-Python---DSA/tree/main/Functions)
 8. [Test 1](https://github.com/haspdecrypted/Coding-Ninjas-Python---DSA/tree/main/Test%201)
 9. [Arrays and Lists](https://github.com/haspdecrypted/Coding-Ninjas-Python---DSA/tree/main/Array%20and%20lists)
+10. [Searching and Sorting](https://github.com/haspdecrypted/Coding-Ninjas-Python---DSA/tree/main/searching%20and%20sorting)
+11. [Strings](https://github.com/haspdecrypted/Coding-Ninjas-Python---DSA/tree/main/strings)
   
