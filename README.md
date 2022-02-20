@@ -1,4 +1,4 @@
-# Coding-Ninjas-Python---DSA
+# Coding-Ninjas-Intro-to-Python-&-DSA
 
 This particular repository is a guide or my progress segregated into multiple sections:
 
