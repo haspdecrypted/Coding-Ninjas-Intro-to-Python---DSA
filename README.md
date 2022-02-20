@@ -14,4 +14,5 @@ This particular repository is a guide or my progress segregated into multiple se
 10. [Searching and Sorting](https://github.com/haspdecrypted/Coding-Ninjas-Python---DSA/tree/main/searching%20and%20sorting)
 11. [Strings](https://github.com/haspdecrypted/Coding-Ninjas-Python---DSA/tree/main/strings)
 12. [Two dimensional Lists](https://github.com/haspdecrypted/Coding-Ninjas-Python---DSA/tree/main/Two%20dimensional%20Lists)
+13. [Test 2](https://github.com/haspdecrypted/Coding-Ninjas-Python---DSA/tree/main/Test%202)
   
