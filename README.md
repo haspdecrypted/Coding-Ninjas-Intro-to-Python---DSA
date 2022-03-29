@@ -16,4 +16,5 @@ This particular repository is a guide or my progress segregated into multiple se
 12. [Two dimensional Lists](https://github.com/haspdecrypted/Coding-Ninjas-Python---DSA/tree/main/Two%20dimensional%20Lists)
 13. [Test 2](https://github.com/haspdecrypted/Coding-Ninjas-Python---DSA/tree/main/Test%202)
 14. [Recursion 1](https://github.com/haspdecrypted/Coding-Ninjas-Intro-to-Python---DSA/tree/main/Recursion%201)
+15. [Recursion 2](https://github.com/haspdecrypted/Coding-Ninjas-Intro-to-Python---DSA/tree/main/Recursion%202)
   
